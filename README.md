@@ -12,6 +12,7 @@ python main.py
 
 ![Example timetable 2022](sprites/timetable-extract.png?raw=true "Example timetable 2022")
 
+To delete the generated xlsx:
 ```
 ./delete_xlsx.sh
 ```
